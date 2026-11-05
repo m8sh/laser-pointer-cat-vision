@@ -1,0 +1,15 @@
+floor_marks_m:
+  A: [0.00, 0.00]
+  B: [2.36, 0.00]
+  C: [2.90, 2.75]
+  D: [1.94, 3.34]
+  E: [1.80, 1.10]
+tape_distances_cm: #raws for future reference
+  AB: 235.9
+  AE: 211.0
+  BE: 123.4
+  BC: 280.0
+  DE: 223.9
+  CD: 112.7
+  AD: 385.6
+  CE: 200
