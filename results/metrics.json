@@ -1,0 +1,70 @@
+{
+  "split": "test",
+  "crops": 99,
+  "model_found_no_cat": 0,
+  "pose_map50": 0.9694835858585859,
+  "pose_map50_95": 0.6389028288011773,
+  "threshold": 0.1,
+  "overall_accuracy": 0.6305732484076433,
+  "overall_median_error": 0.07724297045267814,
+  "keypoints": {
+    "nose": {
+      "labelled": 65,
+      "correct": 46,
+      "accuracy": 0.7076923076923077,
+      "median_error": 0.07223286142446456,
+      "baseline_accuracy": 0.03076923076923077,
+      "baseline_median_error": 0.3328156394457243
+    },
+    "right_ear": {
+      "labelled": 99,
+      "correct": 81,
+      "accuracy": 0.8181818181818182,
+      "median_error": 0.060841384745817614,
+      "baseline_accuracy": 0.0,
+      "baseline_median_error": 0.38091208824362965
+    },
+    "left_ear": {
+      "labelled": 99,
+      "correct": 73,
+      "accuracy": 0.7373737373737373,
+      "median_error": 0.06895023060008376,
+      "baseline_accuracy": 0.030303030303030304,
+      "baseline_median_error": 0.35020166452662344
+    },
+    "neck": {
+      "labelled": 99,
+      "correct": 77,
+      "accuracy": 0.7777777777777778,
+      "median_error": 0.058966081608216814,
+      "baseline_accuracy": 0.050505050505050504,
+      "baseline_median_error": 0.26337478760210287
+    },
+    "right_front_paw": {
+      "labelled": 82,
+      "correct": 30,
+      "accuracy": 0.36585365853658536,
+      "median_error": 0.12501427945042518,
+      "baseline_accuracy": 0.04878048780487805,
+      "baseline_median_error": 0.2944638749771702
+    },
+    "left_front_paw": {
+      "labelled": 85,
+      "correct": 33,
+      "accuracy": 0.38823529411764707,
+      "median_error": 0.12368596081257079,
+      "baseline_accuracy": 0.12941176470588237,
+      "baseline_median_error": 0.25007841939930886
+    },
+    "tail": {
+      "labelled": 99,
+      "correct": 56,
+      "accuracy": 0.5656565656565656,
+      "median_error": 0.08350855991736092,
+      "baseline_accuracy": 0.09090909090909091,
+      "baseline_median_error": 0.2266802613600218
+    }
+  },
+  "baseline_overall_accuracy": 0.054140127388535034,
+  "baseline_overall_median_error": 0.30443162124517487
+}
